@@ -9,9 +9,9 @@
     color: black;
     background-color: turquoise;
 }
-}
+
 .stage-direction:hover{
-    background-color: teal;
+    background-color: olive;
     color: thistle;
 }
 .name{
