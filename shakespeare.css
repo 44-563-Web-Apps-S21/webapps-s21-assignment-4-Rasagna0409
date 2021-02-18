@@ -29,4 +29,13 @@
 .bianca{
     color: seagreen;
 }
+table{
+
+    border-style:double ;
+    color:seagreen    ;   
+    text-align: center;
+    padding: 5mm;
+    margin : 5mm;
+}
+
 
