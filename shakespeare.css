@@ -43,5 +43,17 @@ table{
     text-shadow: 0 1px 5px gray;
 
 }
-
-
+ul.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    padding: 15px;
+    background-color: khaki;
+}
