@@ -9,6 +9,11 @@
     color: black;
     background-color: turquoise;
 }
+}
+.stage-direction:hover{
+    background-color: teal;
+    color: thistle;
+}
 .name{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
